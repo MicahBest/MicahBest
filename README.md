@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @MicahBest
-- 👀 I’m interested in learning to develop software and use for small, fun projects.
-- 🌱 I’m currently learning Python & C++.
 - 📫 How to reach me:
 -  Email: micahbest21@gmail.com
